@@ -11,3 +11,12 @@ javadoc
 .settings/
 .idea/
 *.iml
+*.suo
+*.javaproj
+*.config
+*.dll
+*.props
+*.targets
+/ContributionChecker/packages/Tvl.Java.1.2.0/Tvl.Java.1.2.0.nupkg
+*.xml
+*.sln
